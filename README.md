@@ -77,9 +77,3 @@ The app allows users to:
 - Input customer attributes via dropdowns and sliders
 - View predicted churn result (`Likely to stay` or `Likely to churn`)
 - See churn probability in percentage
-
-### ▶️ How to Run
-
-1. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
